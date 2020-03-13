@@ -1,4 +1,6 @@
 Repository Init Content
 =======================
 
-Your project description here.
+[WIP]
+
+Sample Case management project based on BPMN-CM notations.
